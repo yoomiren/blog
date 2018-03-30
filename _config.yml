@@ -1,0 +1,9 @@
+title: Core Interaction Sp18 Blog Base
+timezone: America/New_York
+theme:
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"

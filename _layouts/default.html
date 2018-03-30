@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="{{ '/assets/normalize.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
+  </head>
+  <body>
+    {% include nav.html %}
+    <main class="content">
+      {{ content }}
+    </main>
+  </body>
+</html>
