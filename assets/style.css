@@ -1,12 +1,12 @@
 body {
   color: #111;
-  font-family: "Times New Roman", serif;
+  font-family: "helvetica",san-serif;
   font-size: 16px;
   line-height: 1.5;
 }
 
 a {
-  color: #111;
+  color: #ffb2b2;
 }
 
 .hidden {
