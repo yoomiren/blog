@@ -1,5 +1,5 @@
 ---
-title: April 2, 2018 | Blog Entry
+title: April 2, 2018 | Initial Planning
 ---
 
 Last week, I wrote out my project plan about making a movie recommendation website that generates movies for you base on the mood you choose. After talking with my group members, I realzied that this idea has some issues to keep going on. First, there are many the same websites that are already on the market and are being widely used. Second, in order to achieve even the most basic function, I need to have a large amout of data library behind this system. I was thinking about two approaches: first, to have a photograph-gallery like website, where users see random photos and pick one that they like, then it will recommend 1-3 movies to you; second, is to have the users take a survey and then in the end, there is a list of movie recommendation. The second approach is much more interactive and user-center experience, however, the question came to "how would I know what kind of mood you in, based on your answers?" and "each person has own tastes in movies" and "this range is way too wide, there are simply too many movies, it's impossible".
