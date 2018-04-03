@@ -15,6 +15,6 @@ Some questions in the survey:
 - How much does your pet weight? 
 - How much does your pet eat daily? 1-3 meals?
 - What kind of food does your pet perfer? Dry or wet?
+- Does your pet have special diet needs? 
 - What kind of package do you want to purchase?
 - One-time purchase or subscribe? 
-- 
