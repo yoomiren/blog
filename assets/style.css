@@ -67,3 +67,7 @@ main.content {
 
 @media (min-width: 65em) {
 }
+
+img {
+  width: 50%
+}
